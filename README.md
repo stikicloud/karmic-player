@@ -1,2 +1,2 @@
-# karma-flexi-flux-player
+# KARMIC PLAYER
 Disruptive Karma Flexi-Flux Embedded YouTube Player
